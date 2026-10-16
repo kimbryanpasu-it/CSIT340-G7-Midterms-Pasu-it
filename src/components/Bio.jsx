@@ -5,7 +5,7 @@ export default function Bio({name, username}){
         <p className="mt-1 text-2xl text-[#FA8112]">
              @{username}
         </p>
-         <p className="mt-3 text-2xl">Front developer from Cebu City.</p>
+         <p className="mt-3 text-2xl">Front-end developer from Cebu City.</p>
     </header>
     )
 }
